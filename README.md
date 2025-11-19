@@ -13,7 +13,7 @@
 - 💻 Passionate about **Web Development**, especially **Backend Engineering**
 - ⚙️ Also passionate in **Algorithms**, **Data Structures**, and **Competitive Programming**
 - 🏆 Member of **ICPC** — My long-term goal is to represent my country in a World Finals
-- 🔐 Recently exploring **Cybersecurity**, mainly **Fundamentals** and **Read Team** concepts
+- 🔐 Recently exploring **Cybersecurity**, mainly **Fundamentals** and **Red Team** concepts
 - 📚 Constant learner who loves solving problems and building impactful projects
 
 ---
@@ -28,8 +28,9 @@ C++ • Java • JavaScript • TypeScript • Kotlin • Python
 - **Backend:** Node.js • Express • Spring Boot  
 - **Mobile:** Kotlin (Android) • Jetpack Compose
 
-### **Databases**
-MySQL • SQL Server • Oracle • MongoDB
+### **Data & Analytics**
+- **Databases:** MySQL • SQL Server • Oracle • MongoDB  
+- **Analytics:** Power BI 
 
 ### **DevOps & Tools**
 Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
@@ -38,7 +39,7 @@ Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
 
 ## 🚀 What I'm Currently Learning
 - Algorithms & ICPC problem-solving  
-- Cibersecurity fundamentals  
+- Cybersecurity fundamentals  
 - Docker & Production-level Backend Architecture  
 
 ---
@@ -61,7 +62,7 @@ Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
 
 - 🌐 Portfolio: *coming soon*
 - 📧 Email: **robertomartinezr23@gmail.com**
-- 💼 LinkedIn: **<a href="https://www.linkedin.com/in/roberto-martinezz/" target="_blank">Roberto Martínez</a>**
+- 💼 LinkedIn: **<a href="https://www.linkedin.com/in/roberto-martinezz/">Roberto Martínez</a>**
 - 🐙 GitHub: **robnez44**
 
 ---

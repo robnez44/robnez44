@@ -46,8 +46,13 @@ Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=robnez44&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robnez44&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=robnez44&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robnez44&layout=compact&langs_count=10&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=robnez44&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=robnez44&color=blueviolet" />
 </p>
 
 ---
@@ -56,7 +61,7 @@ Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
 
 - 🌐 Portfolio: *coming soon*
 - 📧 Email: **robertomartinezr23@gmail.com**
-- 💼 LinkedIn: *https://www.linkedin.com/in/roberto-martinezz/*
+- 💼 LinkedIn: **<a href="https://www.linkedin.com/in/roberto-martinezz/" target="_blank">Roberto Martínez</a>**
 - 🐙 GitHub: **robnez44**
 
 ---

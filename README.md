@@ -40,7 +40,7 @@ Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
 ## 🚀 What I'm Currently Learning
 - Algorithms & ICPC problem-solving  
 - Cybersecurity fundamentals  
-- Docker & Production-level Backend Architecture  
+- Docker & Backend Development  
 
 ---
 

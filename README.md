@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/6o5ZkLZ.png" width="100%" alt="Banner"/>
 </p> -->
 <!-- <h1 align="center">Hello World, I'm Roberto</h1> -->
-<h2 align="center">Backend Developer • CS Student • Algorithms & Cybersecurity Enthusiast</h2>
+<h2 align="center">Backend Developer • CS Student • ICPC & Cybersecurity Enthusiast</h2>
 
 ---
 

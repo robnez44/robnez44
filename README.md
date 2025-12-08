@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/6o5ZkLZ.png" width="100%" alt="Banner"/>
 </p> -->
 <!-- <h1 align="center">Hello World, I'm Roberto</h1> -->
-<h2 align="center">Backend Developer • CS Student • ICPC & Cybersecurity Enthusiast</h2>
+<h2 align="center">Software Developer • CS Student • ICPC & Cybersecurity Enthusiast</h2>
 
 ---
 
@@ -24,7 +24,7 @@
 C++ • Java • JavaScript • TypeScript • Kotlin • Python
 
 ### **Web Development**
-- **Frontend:** HTML • CSS • React • Vite  
+- **Frontend:** HTML5 • CSS3 • JS • TS • React • Vite  
 - **Backend:** Node.js • Express • Spring Boot  
 - **Mobile:** Kotlin (Android) • Jetpack Compose
 
@@ -34,27 +34,6 @@ C++ • Java • JavaScript • TypeScript • Kotlin • Python
 
 ### **DevOps & Tools**
 Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
-
----
-
-## 🚀 What I'm Currently Learning
-- Algorithms & ICPC problem-solving  
-- Cybersecurity fundamentals  
-- Docker & Backend Development  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=robnez44&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robnez44&layout=compact&langs_count=10&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com?user=robnez44&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robnez44&color=blueviolet" />
-</p>
 
 ---
 
@@ -68,4 +47,4 @@ Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
 ---
 
 Thanks for visiting my profile! 🚀  
-Always building, always learning.
+Always learning, always building.

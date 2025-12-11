@@ -10,9 +10,9 @@
 ## 📚 About Me
 
 - 🎓 Computer Science student at **UCA El Salvador**
-- 💻 Passionate about **Web Development**, especially **Backend Engineering**
-- ⚙️ Also passionate in **Algorithms**, **Data Structures**, and **Competitive Programming**
-- 🏆 Member of **ICPC** — My long-term goal is to represent my country in a World Finals
+- 💻 Passionate about **Software Development**, especially **Backend Engineering**
+- ⚙️ Also passionate about **Competitive Programming**, **Algorithms**, and **Data Structures**
+- 🏆 Member of **ICPC** — Long-term goal is to represent my country in a World Finals
 - 🔐 Recently exploring **Cybersecurity**, mainly **Fundamentals** and **Red Team** concepts
 - 📚 Constant learner who loves solving problems and building impactful projects
 

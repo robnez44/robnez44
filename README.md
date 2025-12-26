@@ -33,7 +33,7 @@ C++ • Java • JavaScript • TypeScript • Kotlin • Python
 
 ### **Data & Machine Learning**
 - **Databases:** MySQL • SQL Server • Oracle • MongoDB  
-- **Machine Learning (Learning):** NumPy • Pandas • scikit-learn  
+- **Machine Learning:** NumPy • Pandas • scikit-learn  
 - **Visualization & Analysis:** Power BI • Jupyter Notebooks
 
 ### **DevOps & Tools**

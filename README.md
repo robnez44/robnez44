@@ -3,7 +3,9 @@
   <img src="https://i.imgur.com/6o5ZkLZ.png" width="100%" alt="Banner"/>
 </p> -->
 <!-- <h1 align="center">Hello World, I'm Roberto</h1> -->
-<h2 align="center">Software Developer • CS Student • ICPC & Cybersecurity Enthusiast</h2>
+<h2 align="center">
+Software Developer • CS Student • ICPC & Cybersecurity Enthusiast
+</h2>
 
 ---
 
@@ -11,26 +13,28 @@
 
 - 🎓 Computer Science student at **UCA El Salvador**
 - 💻 Passionate about **Software Development**, especially **Backend Engineering**
-- ⚙️ Also passionate about **Competitive Programming**, **Algorithms**, and **Data Structures**
-- 🏆 Member of **ICPC** — Long-term goal is to represent my country in a World Finals
-- 🔐 Recently exploring **Cybersecurity**, mainly **Fundamentals** and **Red Team** concepts
-- 📚 Constant learner who loves solving problems and building impactful projects
+- ⚙️ Enthusiastic about **Competitive Programming**, **Algorithms**, and **Data Structures**
+- 🏆 **ICPC Regional Participant** — actively training problem-solving skills
+- 🔐 Exploring **Cybersecurity**, with interest in offensive concepts
+- 🤖 Hands-on experience with **Machine Learning**, applying models to real-world datasets through small projects and experiments
+- 📚 Constant learner who enjoys building projects and improving step by step
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### **Languages**
+### **Programming Languages**
 C++ • Java • JavaScript • TypeScript • Kotlin • Python
 
 ### **Web Development**
-- **Frontend:** HTML5 • CSS3 • JS • TS • React • Vite  
+- **Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • React • Vite  
 - **Backend:** Node.js • Express • Spring Boot  
 - **Mobile:** Kotlin (Android) • Jetpack Compose
 
-### **Data & Analytics**
+### **Data & Machine Learning**
 - **Databases:** MySQL • SQL Server • Oracle • MongoDB  
-- **Analytics:** Power BI 
+- **Machine Learning (Learning):** NumPy • Pandas • scikit-learn  
+- **Visualization & Analysis:** Power BI • Jupyter Notebooks
 
 ### **DevOps & Tools**
 Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman

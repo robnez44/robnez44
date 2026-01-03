@@ -16,7 +16,7 @@ Software Developer • CS Student • ICPC & Cybersecurity Enthusiast
 - ⚙️ Enthusiastic about **Competitive Programming**, **Algorithms**, and **Data Structures**
 - 🏆 **ICPC Regional Participant** — actively training problem-solving skills
 - 🔐 Exploring **Cybersecurity**, with interest in offensive concepts
-- 🤖 Hands-on experience with **Machine Learning**, applying models to real-world datasets through small projects and experiments
+- 🤖 Experience applying basic **Machine Learning techniques** through small projects and experiments
 - 📚 Constant learner who enjoys building projects and improving step by step
 
 ---

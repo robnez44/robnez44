@@ -24,7 +24,7 @@ Software Developer • CS Student • ICPC & Cybersecurity Enthusiast
 ## 🛠️ Technologies & Tools
 
 ### **Programming Languages**
-C++ • Java • JavaScript • TypeScript • Kotlin • Python
+C++ • Java • JavaScript • TypeScript • Python • Kotlin
 
 ### **Web Development**
 - **Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • React • Vite  

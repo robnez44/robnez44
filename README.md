@@ -31,10 +31,10 @@ C++ • Java • JavaScript • TypeScript • Python • Kotlin
 - **Backend:** Node.js • Express • Spring Boot  
 - **Mobile:** Kotlin (Android) • Jetpack Compose
 
-### **Data & Machine Learning**
+### **Data & Analytics**
 - **Databases:** MySQL • SQL Server • Oracle • MongoDB  
-- **Machine Learning:** NumPy • Pandas • scikit-learn  
-- **Visualization & Analysis:** Power BI • Jupyter Notebooks
+- **Data Processing:** NumPy • Pandas • scikit-learn  
+- **Visualization & Reporting:** Power BI • Jupyter Notebooks
 
 ### **DevOps & Tools**
 Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman

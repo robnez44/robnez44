@@ -1,10 +1,5 @@
-<!-- Banner
-<p align="center">
-  <img src="https://i.imgur.com/6o5ZkLZ.png" width="100%" alt="Banner"/>
-</p> -->
-<!-- <h1 align="center">Hello World, I'm Roberto</h1> -->
 <h2 align="center">
-Software Developer • CS Student • ICPC & Cybersecurity Enthusiast
+Software Developer • CS Student • ICPC & Data Science Enthusiast
 </h2>
 
 ---
@@ -15,8 +10,8 @@ Software Developer • CS Student • ICPC & Cybersecurity Enthusiast
 - 💻 Passionate about **Software Development**, especially **Backend Engineering**
 - ⚙️ Enthusiastic about **Competitive Programming**, **Algorithms**, and **Data Structures**
 - 🏆 **ICPC Regional Participant** — actively training problem-solving skills
-- 🔐 Exploring **Cybersecurity**, with interest in offensive concepts
-- 🤖 Experience applying basic **Machine Learning techniques** through small projects and experiments
+- 📊 Interested in **Data Science** and applying data-driven approaches to real problems
+- 🤖 Experience working with data using tools like **Pandas**, **NumPy**, and **scikit-learn**
 - 📚 Constant learner who enjoys building projects and improving step by step
 
 ---
@@ -24,21 +19,16 @@ Software Developer • CS Student • ICPC & Cybersecurity Enthusiast
 ## 🛠️ Technologies & Tools
 
 ### **Programming Languages**
-C++ • Java • JavaScript • TypeScript • Python • Kotlin
+C++ • Java • JavaScript • TypeScript • Kotlin • Python
 
 ### **Web Development**
 - **Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • React • Vite  
 - **Backend:** Node.js • Express • Spring Boot  
 - **Mobile:** Kotlin (Android) • Jetpack Compose
 
-### **Data & Analytics**
-- **Databases:** MySQL • SQL Server • Oracle • MongoDB  
+### **Data Science (Learning & Practice)**
 - **Data Processing:** NumPy • Pandas • scikit-learn  
-- **Visualization & Reporting:** Power BI • Jupyter Notebooks
-
-### **DevOps & Tools**
-Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
-
+- **Visualization & Analysis:** Power BI • Jupyter Notebooks
 ---
 
 ## 📫 Connect With Me
@@ -46,9 +36,8 @@ Git • GitHub • Linux • Bash • Docker • Apache • VS Code • Postman
 - 🌐 Portfolio: *coming soon*
 - 📧 Email: **robertomartinezr23@gmail.com**
 - 💼 LinkedIn: **<a href="https://www.linkedin.com/in/roberto-martinezz/">Roberto Martínez</a>**
-- 🐙 GitHub: **robnez44**
 
 ---
 
-Thanks for visiting my profile! 🚀  
-Always learning, always building.
+If you're interested in my work, feel free to explore my repositories or connect with me.  
+🚀 Always striving to learn more and build better solutions.
